@@ -1,0 +1,2 @@
+# launcher.user.js
+BotSabit
